@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kimberly</h1>
 <h3 align="center">Im a student in learning</h3>
 
-- 🔭 I’m currently working on creating **learning to code**
+- 🔭 I’m currently working **several projects**
 
-- 👯 I’m looking to code **to advance**
+- 👯 I’m looking **to advance skills**
 
 - 📫 How to reach me **Kramosmol0001@gmail.com**
 
