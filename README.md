@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kimberly</h1>
 <h3 align="center">Im a student in learning</h3>
 
+- 🔭 I’m currently working on creating **learning to code**
+
+- 👯 I’m looking to code **to advance**
+
 - 📫 How to reach me **Kramosmol0001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
